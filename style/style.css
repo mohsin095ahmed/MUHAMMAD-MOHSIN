@@ -313,7 +313,7 @@ justify-content: space-between;
     }
 
     .name{
-        font-size: 30px;
+        font-size: 25px;
         color:white ;
         font-family: 'Times New Roman', Times, serif;
         font-style: italic;
@@ -399,14 +399,14 @@ justify-content: space-between;
     .dot i:hover{
         color: white;
     }
-    .rey{
+    /* .rey{
         position: relative;
         top: 30px;
         border-bottom: solid 5px orange;
         margin-left: 30px;
-        margin-right:6px;
+        margin-right:0px;
         z-index: 2;
-    }
+    } */
     .informarion{
         background-color: black;
         color: white;
